@@ -20,3 +20,6 @@
 
 ## LightBulb_On_Off
 - <img src = "LightBulb_On_Off/image/LightBulb_On.png" alt = "LightBulb_On Photo">
+
+## Whack_a_Mole
+- <img src = "Whack_a_Mole/image/Whack_a_Mole.png" alt = "Whack_a_Mole Photo">

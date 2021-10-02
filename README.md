@@ -9,6 +9,9 @@
 ## Background_Image_Slider
 - <img src = "Background_Image_Slider/img/background_image_slider.png" alt = "Background_Image_Slider Photo">
 
+## Coin_Toss_Game
+- <img src = "## Coin_Toss_Game/images/Coin_Toss_Game.png" alt = "Coin_Toss_Game Photo">
+
 ## Color Change
 - <img src = "Color Change/photo/color_change.png" alt = "Color_Change Photo">
 
